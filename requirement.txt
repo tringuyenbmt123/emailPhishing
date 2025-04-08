@@ -1,9 +1,0 @@
-gensim
-eml_parser
-pandas
-numpy
-nltk
-wordcloud
-scikit-learn
-joblib
-tensorflow
